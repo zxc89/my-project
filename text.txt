@@ -3,3 +3,4 @@ $ git config --global user.email "email@example.com"
 
 $ git reflog  查看提交日志
 $ git reset --hard 版本id
+$ git pull origin master 下拉文件
